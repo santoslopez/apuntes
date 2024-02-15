@@ -1,0 +1,1926 @@
+[
+    {
+        "capitulo":1,
+        "pregunta":"All data link addresses are EUI-48 addresses.",
+        "respuesta":"The correct answer is False.",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"To deliver IPv4 packets, routers look at the ________ addresses.",
+        "respuesta":"The correct answer is: IPv4",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"In the name Internet, inter means ________.",
+        "respuesta":"The correct answer is: between",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Internet communication that does not involve a human is referred to with the term ________.",
+        "respuesta":"The correct answer is: IoT",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The KrebsOnSecurity.com attack ________.",
+        "respuesta":"The correct answer is: both was a denial of service attack and used IoT devices to attack the site",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When a frame arrives, the data link process on the destination host ________.",
+        "respuesta":"The correct answer is: removes a header",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A packet sent from one host to another over the Internet will ALWAYS pass through ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"In a point-to-point single network, how many physical links will there be when a packet is transmitted?",
+        "respuesta":"The correct answer is: 1",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"________ have access points.",
+        "respuesta":"The correct answer is: Home access routers",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"On the Internet, a ________ host usually gets a dynamic IP address.",
+        "respuesta":"The correct answer is: client",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"If there are 10 routers between the source and destination hosts, how many transport processes will be involved on all devices?",
+        "respuesta":"The correct answer is: 2",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Router forwarding is called ________.",
+        "respuesta":"The correct answer is: routing",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The originating host needs to contact the DNS server each time it sends a packet to the target host.",
+        "respuesta":"The correct answer is False.",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which of the following is a host when it's on a network?",
+        "respuesta":"The correct answer is: All of these",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Source and destination EUI-48 addresses are found in ________ headers.",
+        "respuesta":"The correct answer is: frame",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host sends a packet to another host with six single networks along the way. How many frames are involved?",
+        "respuesta":"The correct answer is: 6",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Most servers are ________.",
+        "respuesta":"The correct answer is: rack servers",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"In a single switched network with seven switches between a source and destination host, the source host addresses the frame ________.",
+        "respuesta":"The correct answer is: to the destination host",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The Mirai bots in the KrebsOnSecurity.com attack were ________.",
+        "respuesta":"The correct answer is: IoT devices",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"IPv4 addresses are ________ bits long.",
+        "respuesta":"The correct answer is: 32",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"An IP packet may include a ________.",
+        "respuesta":"The correct answer is: both application message or fragment and TCP segment or UDP datagram",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"If there are 10 routers between the source and destination hosts, how may internet processes will be involved on all devices?",
+        "respuesta":"The correct answer is: 12",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When you use your tablet to access the internet, the tablet is a ________.",
+        "respuesta":"The correct answer is: client host",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"From a security perspective, the Internet's ability to give access to nearly everyone is a ________.",
+        "respuesta":"The correct answer is: bad thing",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host sends a packet to another host containing six single networks along the way. How many routes are included in this transmission?",
+        "respuesta":"The correct answer is: 1",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Routing is based on a ________.",
+        "respuesta":"The correct answer is: IP address",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which of the following is constantly leading to new applications?",
+        "respuesta":"The correct answer is: All of these",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"On the Internet, a ________ host usually gets a static IP address.",
+        "respuesta":"The correct answer is: server",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The transport layer on the destination host ________.",
+        "respuesta":"The correct answer is: both reassembles the application message if it has been fragmented and removes the transport header",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"We call any device connected to the Internet a ________.",
+        "respuesta":"The correct answer is: host",
+        "intento":1
+    },
+    {
+        "capitulo":1,
+        "pregunta":"What process adds a header in front of an application message or fragment?",
+        "respuesta":"The correct answer is: transport",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"What process adds a header in front of a TCP segment?",
+        "respuesta":"The correct answer is: Internet",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which of the following is an Internet supervisory protocol?",
+        "respuesta":"The correct answer is: DNS",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which of the following uses EUI-48 addresses?",
+        "respuesta":"The correct answer is: both Ethernet and Wi-Fi",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"ISPs ________.",
+        "respuesta":"The correct answer is: both carry traffic in the Internet and connect users to the Internet",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host with a ________ IP address is easier to find than a host with a ________ IP address.",
+        "respuesta":"The correct answer is: static, dynamic",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The network stack implements the ________ layer process.",
+        "respuesta":"The correct answer is: transport",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Source and destination IP addresses are found in the ________ header.",
+        "respuesta":"The correct answer is: IP",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The server program is always a webserver program.",
+        "respuesta":"The correct answer is False.",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A TCP message is called a ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Ethernet uses ________ addresses.",
+        "respuesta":"The correct answer is: EUI-48",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host sends a packet to another host with six single networks along the way. How many packets are involved in this transmission?",
+        "respuesta":"The correct answer is: 1",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host sends a packet to another host containing six single networks along the way. How many data links are used for this transmission?",
+        "respuesta":"The correct answer is: 6",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"________ addresses are 32 bits long.",
+        "respuesta":"The correct answer is: IPv4",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The IETF primarily ________.",
+        "respuesta":"The correct answer is: creates Internet standards",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which of the following has better access point capabilities?",
+        "respuesta":"The correct answer is: Corporate access points",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Flooding a host with traffic so that it cannot serve its legitimate users is a ________ attack.",
+        "respuesta":"The correct answer is: DoS",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When Host A wishes to communicate with Host B, a DNS server provides the IP address of ________.",
+        "respuesta":"The correct answer is: Host B",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Hosts on the Internet have ________ addresses.",
+        "respuesta":"The correct answer is: both IP and data link",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The final router in a route sends the packet being routed in a frame addressed to the ________.",
+        "respuesta":"The correct answer is: destination host",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When a source host sends a packet to a destination host, there will probably be ________ along the way.",
+        "respuesta":"The correct answer is: more data links",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Wi-Fi uses ________ addresses.",
+        "respuesta":"The correct answer is: EUI-48",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"________ have DHCP servers.",
+        "respuesta":"The correct answer is: Home access routers",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Who owns the Internet?",
+        "respuesta":"The correct answer is: No one",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Who is in charge of the Internet?",
+        "respuesta":"The correct answer is: No one",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The client program is usually a browser.",
+        "respuesta":"The correct answer is False.",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host sends a packet to another host containing seven single networks along the way. How many other hosts will there be along the route when Host A transmits?",
+        "respuesta":"The correct answer is: 1",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"In a point-to-point single network, there is always the same number of physical and data links.",
+        "respuesta":"The correct answer is True.",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A DHCP server to assigns the client host the same IP address each time.",
+        "respuesta":"The correct answer is False.",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which is NOT in an IP packet?",
+        "respuesta":"The correct answer is: Data link header",
+        "intento":2
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Depicting the Internet as a cloud symbolizes ________.",
+        "respuesta":"The correct answer is: users do not have to know how the Internet operates",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When Host A wishes to talk with Host B, the DHCP server provides the IP address of ________.",
+        "respuesta":"The correct answer is: Host A",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which of the following is true?",
+        "respuesta":"The correct answer is: Packets are carried inside frames.",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When a packet is transmitted, there is a single data link in each ________.",
+        "respuesta":"The correct answer is: both point-to-point single network and switched network",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The transport process always fragments the application message.",
+        "respuesta":"The correct answer is False.",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"In a single switched network, a ________ connects consecutive switches.",
+        "respuesta":"The correct answer is: physical link",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"If a host cannot reach a DNS server, it ________.",
+        "respuesta":"The correct answer is: is unlikely to be able to communicate with most server hosts",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"paths across a single network are called ________.",
+        "respuesta":"The correct answer is: data links",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host sends a packet to another host with six single networks along the way. How many packets are involved in this transmission?",
+        "respuesta":"The correct answer is: 1",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Router forwarding is called ________.",
+        "respuesta":"The correct answer is: routing",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The originating host needs to contact the DNS server each time it sends a packet to the target host.",
+        "respuesta":"The correct answer is False.",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When a frame arrives, the data link process on the destination host ________.",
+        "respuesta":"The correct answer is: removes a header",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host sends a packet to another host containing six single networks along the way. How many data links are used for this transmission?",
+        "respuesta":"The correct answer is: 6",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When you use your tablet to access the internet, the tablet is a ________.",
+        "respuesta":"The correct answer is: client host",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which is NOT in an IP packet?",
+        "respuesta":"The correct answer is: Data link header",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Who is in charge of the Internet?",
+        "respuesta":"The correct answer is: No one",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Routing is based on a ________.",
+        "respuesta":"The correct answer is: IP address",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A host with a ________ IP address is easier to find than a host with a ________ IP address.",
+        "respuesta":"The correct answer is: static, dynamic",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Who owns the Internet?",
+        "respuesta":"The correct answer is: No one",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The final router in a route sends the packet being routed in a frame addressed to the ________.",
+        "respuesta":"The correct answer is: destination host",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"A TCP message is called a ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"________ have access points.",
+        "respuesta":"The correct answer is: Home access routers",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"An IP packet may include a ________.",
+        "respuesta":"The correct answer is: both application message or fragment and TCP segment or UDP datagram",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"When Host A wishes to communicate with Host B, a DNS server provides the IP address of ________.",
+        "respuesta":"The correct answer is: Host B",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"Which of the following has better access point capabilities?",
+        "respuesta":"The correct answer is: Corporate access points",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The server program is always a webserver program.",
+        "respuesta":"The correct answer is False.",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"On the Internet, a ________ host usually gets a dynamic IP address.",
+        "respuesta":"The correct answer is: client",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The Mirai bots in the KrebsOnSecurity.com attack were ________.",
+        "respuesta":"The correct answer is: IoT devices",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The network stack implements the ________ layer process.",
+        "respuesta":"The correct answer is: transport",
+        "intento":3
+    },
+    {
+        "capitulo":1,
+        "pregunta":"The IETF primarily ________.",
+        "respuesta":"The correct answer is: creates Internet standards",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"On a server, well-known port numbers indicate ________.",
+        "respuesta":"The correct answer is: applications",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"To know what kind of message is in the Ethernet II data field, the receiver must look in the ________ field.",
+        "respuesta":"The correct answer is: EtherType",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"IETF standards typically begin as simple protocols which ________.",
+        "respuesta":"The correct answer is: enhances development speed",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for routers?",
+        "respuesta":"The correct answer is: Internet",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards layer governs multiuser word processing programs?",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following protocols is reliable?",
+        "respuesta":"The correct answer is: TCP",
+        "intento":1
+    }
+    ,
+    {
+        "capitulo":2,
+        "pregunta":"If you change a standard at one layer, you are not required to change standards at other layers.",
+        "respuesta":"The correct answer is True.",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Standards layers provide services directly to ________.",
+        "respuesta":"The correct answer is: the next-higher layer",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is a standards agency?",
+        "respuesta":"The correct answer is: ITU-T",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards agency is especially important for data link processes?",
+        "respuesta":"The correct answer is: ISO and ITU-T",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If a destination host does not receive a segment, it will ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The source socket is 60.171.18.22:2707. The source is a ________.",
+        "respuesta":"The correct answer is: client",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards layer governs peer-to-peer file sharing?",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The five senses can be represented with a ________-bit field.",
+        "respuesta":"The correct answer is: 3",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"2500 is in the range for ________ port numbers.",
+        "respuesta":"The correct answer is: ephemeral",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"In IP, the first bit in the second row is ________.",
+        "respuesta":"The correct answer is: 32",
+        "intento":1
+    }
+    ,
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is an integer?",
+        "respuesta":"The correct answer is: 5,280",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"UDP ________.",
+        "respuesta":"The correct answer is: both is unreliable and has a checksum field",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards layer governs e-mail?",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If a destination host receives a TCP segment with an error, it will transmit ________.",
+        "respuesta":"The correct answer is: nothing",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for frames?",
+        "respuesta":"The correct answer is: data link",
+        "intento":1
+    }
+    ,
+    {
+        "capitulo":2,
+        "pregunta":"SYN segments have ________.",
+        "respuesta":"The correct answer is: headers",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards agency creates Internet standards?",
+        "respuesta":"The correct answer is: IETF",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Network standards ________.",
+        "respuesta":"The correct answer is: decrease equipment prices",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"For every conversation, a client randomly generates an ephemeral port number for ________.",
+        "respuesta":"The correct answer is: conversations",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"How many alternatives can you represent with a 10-bit field?",
+        "respuesta":"The correct answer is: 1,024",
+        "intento":1
+    }
+    ,
+    {
+        "capitulo":2,
+        "pregunta":"ISO standards are dominant in the OSI-TCP/IP layered standards architecture at the ________ layer.",
+        "respuesta":"The correct answer is: neither transport nor Internet",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The internet process checks for errors.",
+        "respuesta":"The correct answer is True.",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"In an HTTP, which one (browser or Webserver application program) transmits message first?",
+        "respuesta":"The correct answer is: browser",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for access points?",
+        "respuesta":"The correct answer is: both physical and data link",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"A header is defined as everything that comes before the data field.",
+        "respuesta":"The correct answer is True.",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer is encoding done?",
+        "respuesta":"The correct answer is: application",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for EUI-48 addresses?",
+        "respuesta":"The correct answer is: data link",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Not making all protocols reliable ________.",
+        "respuesta":"The correct answer is: reduces cost",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"TCP has single-bit fields in its headers; these single-bit fields are called ________ fields.",
+        "respuesta":"The correct answer is: flag",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"In decimal, the binary number 110 is ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The range of port 1024 to port 4999 is the usual range for ________ port numbers.",
+        "respuesta":"The correct answer is: ephemeral",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"A TCP segment can both send information and acknowledge an earlier message sent to its host.",
+        "respuesta":"The correct answer is True.",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"A trailer is defined as everything that comes after the data field.",
+        "respuesta":"The correct answer is True.",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"A message always has a ________.",
+        "respuesta":"The correct answer is: header",
+        "intento":1
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The destination socket is 60.171.18.22:161. The destination host is a ________.",
+        "respuesta":"The correct answer is: server",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for IP addresses?",
+        "respuesta":"The correct answer is: Internet",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"HTTP is a connectionless protocol.",
+        "respuesta":"The correct answer is True.",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"A sending host will retransmit a TCP segment if it ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The ________ contains the content being delivered by a message.",
+        "respuesta":"The correct answer is: data field",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If two hosts are connected by five networks, how many routers will there be when one host sends a packet to the other host?",
+        "respuesta":"The correct answer is: 4",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Octet is the same as ________.",
+        "respuesta":"The correct answer is: byte",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If a destination host receives an incorrect segment, it will ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is NOT one of the three general parts of messages?",
+        "respuesta":"The correct answer is: address field",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards agency is especially important for Internet supervisory processes?",
+        "respuesta":"The correct answer is: IETF",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"In a four-step close, which side transmits a FIN segment?",
+        "respuesta":"The correct answer is: both the side that initiates the close and the side that does not initiate the close",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for switches?",
+        "respuesta":"The correct answer is: data link",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which layer(s) governs transmission through the Internet?",
+        "respuesta":"The correct answer is: neither data link nor physical",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"It is typically advantageous to change a standard if the layer ________ gets an upgraded standard.",
+        "respuesta":"The correct answer is: below it",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"How many bytes will it take to transmit 'Brain Dead' without the quotation marks?",
+        "respuesta":"The correct answer is: None of these",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If two hosts are connected by five networks, how many frames will there be when one host sends a packet to the other host?",
+        "respuesta":"The correct answer is: 5",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Convert the binary number 100 to decimal.",
+        "respuesta":"The correct answer is: 4",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Only applications from the IETF are likely to be able to run over TCP.",
+        "respuesta":"The correct answer is False.",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"There is always a data field in a message.",
+        "respuesta":"The correct answer is False.",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"IP is ________.",
+        "respuesta":"The correct answer is: unreliable",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Ethernet has a Frame Check Sequence Field to check for errors. Ethernet is ________.",
+        "respuesta":"The correct answer is: unreliable",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards agency is especially important for transport processes?",
+        "respuesta":"The correct answer is: IETF",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for routes?",
+        "respuesta":"The correct answer is: Internet",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards layer governs the World Wide Web?",
+        "respuesta":"The correct answer is: None of these",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"In TCP, port number fields are 16 bits long. How many possible port numbers are there?",
+        "respuesta":"The correct answer is: 64,536",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Convert a decimal number 15 to the binary number.",
+        "respuesta":"The correct answer is: 1111",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If a destination host receives a correct segment, it will transmit ________.",
+        "respuesta":"The correct answer is: an ACK segment",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Host P transmits a SYN segment to Host Q. If host Q is willing to open the connection, it will transmit a ________ segment.",
+        "respuesta":"The correct answer is: SYN/ACK",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is an integer?",
+        "respuesta":"The correct answer is: 4,307",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The IP standard calls for IP packets to be carried in the Ethernet II version of the Ethernet frame.",
+        "respuesta":"The correct answer is True.",
+        "intento":2
+    },
+    {
+        "capitulo":2,
+        "pregunta":"TCP is a connection-oriented protocol.",
+        "respuesta":"The correct answer is True.",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"HTTP is a reliable protocol.",
+        "respuesta":"The correct answer is False.",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is a socket?",
+        "respuesta":"The correct answer is: neither 80 nor 21",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Ethernet syntax is displayed 32 bits on a line.",
+        "respuesta":"The correct answer is False.",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The application layer processes application message fragmentation.",
+        "respuesta":"The correct answer is False.",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards agency is especially important for physical transmission processes?",
+        "respuesta":"The correct answer is: ITU-T",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Header means the same thing as Header Field.",
+        "respuesta":"The correct answer is False.",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"From which standards architectures do organizations typically take their standards?",
+        "respuesta":"The correct answer is: both OSI and TCP/IP",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"At what layer will you find standards for packets?",
+        "respuesta":"The correct answer is: Internet",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Convert decimal 8 to binary.",
+        "respuesta":"The correct answer is: 1000",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"The UDP header has ________ fields.",
+        "respuesta":"The correct answer is: 4",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is a standards agency for the Internet?",
+        "respuesta":"The correct answer is: IETF",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If two hosts are connected by five networks, how many packets will there be when one host sends a packet to the other host?",
+        "respuesta":"The correct answer is: 1",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If you add one bit to an alternatives field, you can have ________.",
+        "respuesta":"The correct answer is: twice as many alternatives",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If the destination internet process detects an error, it ________.",
+        "respuesta":"The correct answer is: discards the packet",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is an architecture?",
+        "respuesta":"The correct answer is: neither ISO nor IETF",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"During a connection opening, how many TCP segments will the side that initiates the connection send?",
+        "respuesta":"The correct answer is: 2",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"In the Ethernet II frame, the IP packet is carried in the ________ field.",
+        "respuesta":"The correct answer is: data",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"ASCII has a 7-bit code. How many keyboard characters can it represent?",
+        "respuesta":"The correct answer is: 128",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"TCP control segments normally have ________.",
+        "respuesta":"The correct answer is: headers",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Transmitting 'Oh, My!' without the quotes in ASCII requires ________ octets.",
+        "respuesta":"The correct answer is: 7",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"After the side wishing to close a TCP connection sends a FIN segment, it will ________.",
+        "respuesta":"The correct answer is: only send ACK segments",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"To represent 65 alternatives, your alternatives field would have to be at least ________ bits long.",
+        "respuesta":"The correct answer is: 7",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"A standards agency for OSI is ________.",
+        "respuesta":"The correct answer is: ITU-T",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Internet standards are published as ________.",
+        "respuesta":"The correct answer is: RFCs",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which layer processes application message fragmentation?",
+        "respuesta":"The correct answer is: transport",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which layer(s) governs transmission through a single network?",
+        "respuesta":"The correct answer is: both data link and physical",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which layer governs wires?",
+        "respuesta":"The correct answer is: physical",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If someone says that a 1-bit flag is set, it is given the value ________.",
+        "respuesta":"The correct answer is: 1",
+        "intento":3
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which standards agency is especially important for internet processes?",
+        "respuesta":"The correct answer is: IETF",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Error rates can soar when the network traffic level is at a ________.",
+        "respuesta":"The correct answer is: high level",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"SNMP Set commands can ________.",
+        "respuesta":"The correct answer is: change router operation",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"________ is the percentage of time that a network is available for use.",
+        "respuesta":"The correct answer is: Availability",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Using the SNMP Set command ________.",
+        "respuesta":"The correct answer is: both saves management labor and requires excellent security",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"SNMP agents communicate with the ________.",
+        "respuesta":"The correct answer is: network management program",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"In QoS, the S stands for ________.",
+        "respuesta":"The correct answer is: service",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Momentary traffic peaks usually last a few ________ or less.",
+        "respuesta":"The correct answer is: seconds",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"If throughput falls substantially below a QoS guaranteed speed, the ISP ________.",
+        "respuesta":"The correct answer is: may pay a penalty",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Which of the following usually has higher availability?",
+        "respuesta":"The correct answer is: public switched telephone network (PSTN)",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Variability in delay is called ________.",
+        "respuesta":"The correct answer is: jitter",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Ping tells you ________.",
+        "respuesta":"The correct answer is: round-trip latency",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"In a coffee shop hot spot, the rated speed is 10 Mbps. Throughput is about half of the rated speed. There are ten people using the hot spot. If you and three others are transmitting or receiving at the same time, what speed should you expect to get?",
+        "respuesta":"The correct answer is: 1.25 Mbps",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Which of the following tells you the cumulative round-trip latency to each router along the route to the host?",
+        "respuesta":"The correct answer is: Traceroute",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Priority is a way to handle a chronic lack of capacity.",
+        "respuesta":"The correct answer is False.",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Routers and switches must support ________.",
+        "respuesta":"The correct answer is: Southbound APIs",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Latency is usually measured in ________.",
+        "respuesta":"The correct answer is: milliseconds (ms)",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"SDN can ________.",
+        "respuesta":"The correct answer is: both permit routing rules to be changed rapidly and reduce router costs",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"The SNMP manager stores the information it receives from Get commands ________.",
+        "respuesta":"The correct answer is: in the MIB",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"When a packet travels through a network, the time it takes to get from the sender to the receiver is called ________.",
+        "respuesta":"The correct answer is: latency",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"To handle momentary traffic peaks, which would you give higher priority to?",
+        "respuesta":"The correct answer is: VoIP",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Users of an access point share the transmission capacity of the access point. The throughput a user gets is called the ________.",
+        "respuesta":"The correct answer is: individual throughput",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"An SLA specifies ________.",
+        "respuesta":"The correct answer is: minimum speed",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"SNMP Get commands can ________.",
+        "respuesta":"The correct answer is: ask agents for information about the managed device",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"QoS is quantified through ________",
+        "respuesta":"The correct answer is: metrics",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Creating switching tables is an example of ________.",
+        "respuesta":"The correct answer is: control",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"SNMP agents can initiate ________.",
+        "respuesta":"The correct answer is: traps",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Which of the following reduces momentary traffic peaks by controlling how much traffic is allowed into the network?",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Momentary traffic peaks can lead to ________.",
+        "respuesta":"The correct answer is: both latency and packet loss",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Traffic shaping may ________ traffic that is undesirable.",
+        "respuesta":"The correct answer is: both prohibit and limit",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Guarantees for quality of service are called ________.",
+        "respuesta":"The correct answer is: SLAs",
+        "intento":1
+    },
+    {
+        "capitulo":3,
+        "pregunta":"The damage of momentary traffic peaks can be addressed by ________.",
+        "respuesta":"The correct answer is: both using priority and adding more capacity",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Ping tells you ________.",
+        "respuesta":"The correct answer is: both that a host is reachable and latency in the connection to the host",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"An SLA specifies ________.",
+        "respuesta":"The correct answer is: maximum latency",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"In a coffee shop, there are ten people sharing an access point with a rated speed of 2Gbps. The throughput is half the rated speed. If each person downloading is getting an average of 200Mbps, how many people are using the Internet at that moment?",
+        "respuesta":"The correct answer is: 5",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Jitter is a problem for ________.",
+        "respuesta":"The correct answer is: both voice over IP (VoIP) and streaming media",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Compared to priority, overprovisioning capacity can reduce ________.",
+        "respuesta":"The correct answer is: management labor",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Creating routing tables is an example of ________.",
+        "respuesta":"The correct answer is: control",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"SDN holds the promise of bringing ________.",
+        "respuesta":"The correct answer is: lower cost",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Using standard configurations ________.",
+        "respuesta":"The correct answer is: saves money",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"An SLA specifies ________.",
+        "respuesta":"The correct answer is: minimum availability",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"The business benefit of multiplexing is ________.",
+        "respuesta":"The correct answer is: lower cost",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"If you have 10 sites connected by 7 transmission links, how many columns will you have in your traffic table?",
+        "respuesta":"The correct answer is: 7",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"An SLA specifies the ________.",
+        "respuesta":"The correct answer is: worst case",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"SNMP network management ________.",
+        "respuesta":"The correct answer is: decreases total cost",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Throughput is ________.",
+        "respuesta":"The correct answer is: the speed a network actually provides to users",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"The SNMP ________ command changes how managed devices operate.",
+        "respuesta":"The correct answer is: Set",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"In SDN, applications ________.",
+        "respuesta":"The correct answer is: are required to make SDN work effectively",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"In SDN, which device manages the control function for individual devices?",
+        "respuesta":"The correct answer is: SDN controller",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Trunk lines in the Internet core are ________.",
+        "respuesta":"The correct answer is: multiplexed",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Adding applications that cannot tolerate jitter may require ________.",
+        "respuesta":"The correct answer is: switch upgrades",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"In SDN, a switch receives its forwarding table rules directly from ________.",
+        "respuesta":"The correct answer is: the SDN controller",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"In SNMP, the manager communicates directly with the managed device.",
+        "respuesta":"The correct answer is False.",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"For analysis, network administrators usually interact primarily with ________.",
+        "respuesta":"The correct answer is: the network visualization program",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"An SLA specifies ________.",
+        "respuesta":"The correct answer is: maximum jitter",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Transmission speed is normally measured in ________.",
+        "respuesta":"The correct answer is: bits per second",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"To determine if a host is reachable, you send a ________.",
+        "respuesta":"The correct answer is: ping",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Communication between SDN controllers and routers is governed by ________.",
+        "respuesta":"The correct answer is: southbound APIs",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Jitter is a problem for ________.",
+        "respuesta":"The correct answer is: neither downloading a file attached to an e-mail nor e-mail",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Which of the following is NOT governed by the SNMP standard?",
+        "respuesta":"The correct answer is: network visibility program",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"ISPs usually offer QoS guarantees to ________.",
+        "respuesta":"The correct answer is: business customers",
+        "intento":2
+    },
+    {
+        "capitulo":3,
+        "pregunta":"",
+        "respuesta":"",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Communication between SDN applications and SDN controllers is governed by ________.",
+        "respuesta":"The correct answer is: northbound APIs",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Routing packets is an example of ________.",
+        "respuesta":"The correct answer is: forwarding",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"________ can be addressed by using priority.",
+        "respuesta":"The correct answer is: Momentary traffic peaks",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Forwarding functions are located in routers in ________.",
+        "respuesta":"The correct answer is: traditional operation",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Control is done on individual switches and routers in ________.",
+        "respuesta":"The correct answer is: traditional operation",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"If you have 10 sites connected by 7 transmission links, how many rows of traffic data will you have in your traffic table?",
+        "respuesta":"The correct answer is: 10",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"Jitter is a problem for ________.",
+        "respuesta":"The correct answer is: neither downloading a file attached to an e-mail nor e-mail",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"An SLA specifies ________.",
+        "respuesta":"The correct answer is: maximum jitter",
+        "intento":3
+    },
+    {
+        "capitulo":3,
+        "pregunta":"An SLA specifies ________. (hay otra pregunta igual con distintas opciones de respuesta)",
+        "respuesta":"The correct answer is: minimum availability",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In digital certificate authentication, the verifier gets the key it needs directly from the ________.",
+        "respuesta":"The correct answer is: certificate authority",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"DoS attacks attempt to ________.",
+        "respuesta":"The correct answer is: reduce the availability of a computer",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"The Target attackers probably first broke into Target using the credentials of a ________.",
+        "respuesta":"The correct answer is: employee in a firm outside Target",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In authentication, ________ are the general name for proofs of identity.",
+        "respuesta":"The correct answer is: credentials",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"The supplicant claims to be ________.",
+        "respuesta":"The correct answer is: the true party",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In SPI firewalls, ACLs are used for packets in the ________ state.",
+        "respuesta":"The correct answer is: connection-opening",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"When a firewall identifies an attack packet, it ________.",
+        "respuesta":"The correct answer is: both discards the packet and copies information about the packet into a log file",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which of the following attach themselves to other programs?",
+        "respuesta":"The correct answer is: viruses",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"________ look at ________, while ________ mostly look at ________.",
+        "respuesta":"The correct answer is: Antivirus programs; files; firewalls; packets",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"For reusable passwords, NIST now recommends ________.",
+        "respuesta":"The correct answer is: both that passwords be easy to remember and that passwords be long phrases instead of being about 8-12 characters long",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In antivirus filtering, the best ways to filter currently use ________.",
+        "respuesta":"The correct answer is: behavioral detection",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which is more harmful to the victim?",
+        "respuesta":"The correct answer is: identity theft",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Viruses and worms propagate through ________.",
+        "respuesta":"The correct answer is: both social engineering and exploiting vulnerabilities",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In ________ thinking, the opponent is primarily an intelligent attacker.",
+        "respuesta":"The correct answer is: security",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"What kind of attack is most likely to succeed against a system with no technological vulnerabilities?",
+        "respuesta":"The correct answer is: social engineering",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"________ is a flaw in a program that permits a specific attack or set of attacks.",
+        "respuesta":"The correct answer is: A vulnerability",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Stateful packet inspection firewalls are attractive because of their ________.",
+        "respuesta":"The correct answer is: low cost for a given traffic volume",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Traditionally, we have told users that passwords ________.",
+        "respuesta":"The correct answer is: should have a mix of characters (uppercase and lowercase letters, digits, other keyboard characters)",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"If a packet is highly suspicious but not a provable attack packet, an ________ may drop it.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Why are employees especially dangerous?",
+        "respuesta":"The correct answer is: They are trusted.",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"The messages of VPNs ________.",
+        "respuesta":"The correct answer is: both share the same transmission lines used by other VPNs and are encrypted",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"How did the Target attackers obtain the stolen information?",
+        "respuesta":"The correct answer is: None of these.",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"SSL/TLS is used for ________.",
+        "respuesta":"The correct answer is: Web applications",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In authentication, the ________ is the party trying to prove his or her identity.",
+        "respuesta":"The correct answer is: supplicant",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which of the following meets the definition of hacking?",
+        "respuesta":"The correct answer is: both to intentionally use a computer resource without authorization and to intentionally use a computer on which you have an account but use it for unauthorized purposes",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Requiring someone prove his or her identity is ________.",
+        "respuesta":"The correct answer is: authentication",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In which type of attack does the attacker gather extensive sensitive personal information about its victim?",
+        "respuesta":"The correct answer is: identity theft",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Facial recognition is controversial because ________.",
+        "respuesta":"The correct answer is: it can be used surreptitiously",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In distributed DoS attacks, the attacker sends messages directly to ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In general, what type of attackers do the most damage?",
+        "respuesta":"The correct answer is: national governments",
+        "intento":1
+    },
+    {
+        "capitulo":4,
+        "pregunta":"You click on a link expecting to go to a legitimate website but are directed to a website that contains information you are not authorized to see. You exit without looking around. is that hacking?",
+        "respuesta":"The correct answer is: no",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In a ________ attack, the attacker encrypts some or all of the victim's hard drive.",
+        "respuesta":"The correct answer is: ransom",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"When a packet that is not part of an ongoing connection and that does not attempt to open a connection arrives at a stateful inspection firewall, the firewall ________.",
+        "respuesta":"The correct answer is: drops the packet",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Biometrics, and other new authentication methods, are being created with the goal of getting rid of reusable passwords.",
+        "respuesta":"The correct answer is True.",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which form of authentication depends on the supplicant proving that she knows something only the true party should know?",
+        "respuesta":"The correct answer is: both reusable password authentication and iris scanning",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Who mounts APTs today?",
+        "respuesta":"The correct answer is: both national governments and cybercriminals",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"SPI firewalls are being replaced in large part because they are limited in their ability to detect ________.",
+        "respuesta":"The correct answer is: port spoofing",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"________ attackers are often well-funded.",
+        "respuesta":"The correct answer is: Cybercriminal",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Using bodily measurements for authentication is ________.",
+        "respuesta":"The correct answer is: biometrics",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"What type of attacker are most attackers today?",
+        "respuesta":"The correct answer is: career criminals",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"The digital certificate provides the ________.",
+        "respuesta":"The correct answer is: None of these",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Attack programs that can be remotely controlled by an attacker are ________.",
+        "respuesta":"The correct answer is: bots",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which of the following sometimes uses direct propagation between computers?",
+        "respuesta":"The correct answer is: worms",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Digital certificate authentication fails if the supplicant ________.",
+        "respuesta":"The correct answer is: learns the true party's private key",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In digital certificate authentication, the verifier decrypts the challenge message with ________.",
+        "respuesta":"The correct answer is: the true party is public key",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Users typically can eliminate a vulnerability in one of their programs by ________.",
+        "respuesta":"The correct answer is: installing a patch",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Electronic signatures provide message-by-message ________.",
+        "respuesta":"The correct answer is: authentication",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which type of firewall filtering looks at application-layer content?",
+        "respuesta":"The correct answer is: NGFW",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Electronic signatures also provide ________ in addition to authentication.",
+        "respuesta":"The correct answer is: message integrity",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Compared to NGFWs, IDSs ________.",
+        "respuesta":"The correct answer is: look for different threats",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In general, what should an employer do whenever an employee leaves the firm?",
+        "respuesta":"The correct answer is: Their accounts should be disabled instantly",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"How will a stateful packet inspection (SPI) firewall handle a packet containing a TCP segment that contains an acknowledgement?",
+        "respuesta":"The correct answer is: pass it if it is part of an approved connection",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Employees often attack ________.",
+        "respuesta":"The correct answer is: both for revenge and for money",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"The general term for evil software is ________.",
+        "respuesta":"The correct answer is: malware",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In terms of security thinking, insiders include ________.",
+        "respuesta":"The correct answer is: both employees and many contractors working for the company",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"________ are full programs.",
+        "respuesta":"The correct answer is: Worms",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Firewall log files should be read ________.",
+        "respuesta":"The correct answer is: every day",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which of the following is the most frustrating to use?",
+        "respuesta":"The correct answer is: IDSs",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"The Target attackers sold stolen card information to ________.",
+        "respuesta":"The correct answer is: card shops",
+        "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"________ is the general name for malware on a user's PC that collects sensitive information and sends this information to an attacker.",
+        "respuesta":"The correct answer is: Spyware",
+        "intento":2
+    }
+]
