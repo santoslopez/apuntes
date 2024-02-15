@@ -31,9 +31,6 @@ function mostrarPreguntas(preguntas){
     return;
   }
 
-  // habilitar el botón de descarga
-  btnDescargarPdf.disabled = false;
-
   let contenidoHTML = '<ul>';
   const preguntasVistas = new Set();
   let contadorNumeroPregunta = 0;
@@ -51,7 +48,7 @@ function mostrarPreguntas(preguntas){
           ${pregunta.respuesta}
         </div>
       </li>`;
-      btnDescargarPdf.disabled = true;
+      btnDescargarPdf.disabled = false;
     } else {
       contenidoHTML += `<li id="pregunta-${contadorNumeroPregunta}">
       ${contadorNumeroPregunta}. <strong style="color:black">${pregunta.pregunta}</strong><br>
@@ -60,7 +57,7 @@ function mostrarPreguntas(preguntas){
       </button>
       <br>
     </li>`;
-    btnDescargarPdf.disabled = false;
+    btnDescargarPdf.disabled = true;
     }
   }
   });
@@ -80,15 +77,12 @@ function filtrarPreguntas(){
   }
 }
 
-// Agregar eventos de clic a los radio buttons
+// Eventos de clic a los radio buttons
 estadoRadioButtonOcultar.addEventListener('click', function() {
   filtrarPreguntas();
-  
 });
-
 estadoRadioButtonSeleccionado.addEventListener('click', function() {
   filtrarPreguntas();
-  
 });
 
 function mostrarRespuesta(respuesta) {

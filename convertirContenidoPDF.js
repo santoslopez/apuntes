@@ -1,11 +1,5 @@
 function convertirAPDF() {
     
-    if (!estadoRadioButtonSeleccionado.checked){
-      estadoRadioButtonSeleccionado.checked = true;
-      estadoRadioButtonOcultar.checked = false;
-      filtrarPreguntas();
-    }
-
     var accederDivJson = document.getElementById('contenidoJson');
 
     // Crear un nuevo objeto html2pdf
