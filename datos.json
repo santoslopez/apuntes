@@ -1144,6 +1144,66 @@
         "intento":3
     },
     {
+        "capitulo":2,
+        "pregunta":"Network standards provide ________.",
+        "respuesta":"The correct answer is: interoperability",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Standards mean the same thing as ________.",
+        "respuesta":"The correct answer is: protocols",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"If two hosts are connected by five point-to-point networks, how physical links will there be when one host sends a packet to the other host?",
+        "respuesta":"The correct answer is: 6",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"In HTTP, which program may initiate communication?",
+        "respuesta":"The correct answer is: browser",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Converting application messages into bits is called ________.",
+        "respuesta":"The correct answer is: encoding",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which of the following is a connectionless protocol?",
+        "respuesta":"The correct answer is: IP",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"TCP messages are called ________.",
+        "respuesta":"The correct answer is: segments",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"HTTP is ________.",
+        "respuesta":"The correct answer is: neither connection-oriented nor reliable",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"IETF standards are dominant in the OSI-TCP/IP layered standards architecture at the ________ layer.",
+        "respuesta":"The correct answer is: transport",
+        "intento":4
+    },
+    {
+        "capitulo":2,
+        "pregunta":"Which part of a message is included less frequently when compared to the other two parts?",
+        "respuesta":"The correct answer is: trailer",
+        "intento":4
+    },
+    {
         "capitulo":3,
         "pregunta":"Error rates can soar when the network traffic level is at a ________.",
         "respuesta":"The correct answer is: high level",
