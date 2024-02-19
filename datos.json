@@ -1982,5 +1982,185 @@
         "pregunta":"________ is the general name for malware on a user's PC that collects sensitive information and sends this information to an attacker.",
         "respuesta":"The correct answer is: Spyware",
         "intento":2
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In a DDoS attack, a ________ sends messages directly to the victim.",
+        "respuesta":"The correct answer is: bot",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Who are the most dangerous types of employees?",
+        "respuesta":"The correct answer is: IT security employees",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which type of firewall is more expensive per packet handled?",
+        "respuesta":"The correct answer is: NGFW",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In an SPI firewall, all rules except the last will permit the connection. The last will ________.",
+        "respuesta":"The correct answer is: deny the connection",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"For sensitive assets, reusable passwords ________.",
+        "respuesta":"The correct answer is: should not be used",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"NGFWs ________.",
+        "respuesta":"The correct answer is: can implement different rules for different applications",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"A spear phishing attack is usually aimed at ________.",
+        "respuesta":"The correct answer is: an individual",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"NIST guidelines for reusable passwords permit ________.",
+        "respuesta":"The correct answer is: entirely lower-case passwords",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"The supplicant is ________.",
+        "respuesta":"The correct answer is: either the true party or an impostor",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Using SSL/TLS for Web applications is attractive because SSL/TLS ________.",
+        "respuesta":"The correct answer is: is essentially free to use",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In encryption, what must be kept secret?",
+        "respuesta":"The correct answer is: the key",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"You are concerned with the security of a site you use and run a vulnerability test against it. The test reveals a security threat. Is this hacking?",
+        "respuesta":"The correct answer is: yes",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Malware programs that masquerade as system files are called ________.",
+        "respuesta":"The correct answer is: Trojan horses",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"A debit card is secure because it requires two credentials for authentication–the card itself and a PIN. This is called ________.",
+        "respuesta":"The correct answer is: two-factor authentication",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which type of firewall filtering collects streams of packets to analyze them as a group?",
+        "respuesta":"The correct answer is: NGFW",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"SPI firewalls are attractive because of their ________.",
+        "respuesta":"The correct answer is: low cost",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"For reusable passwords, NIST now recommends ________.(otra pregunta)",
+        "respuesta":"The correct answer is: that passwords be easy to remember",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"For consumers who suffered credit card fraud because of the Target breach and acted quickly, which of the following is true?",
+        "respuesta":"The correct answer is: The credit card companies did not charge them for fraudulent purchasers.",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Hacking is defined as using a computer resource without authorization or in excess of authorization.",
+        "respuesta":"The correct answer is 'False'.",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Pieces of code that are executed after the virus or worm has spread are called ________.",
+        "respuesta":"The correct answer is: payloads",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Iris scanning is attractive because of its ________.",
+        "respuesta":"The correct answer is: precision",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"In most encryption, keys must be at least ________ long to be considered safe.",
+        "respuesta":"The correct answer is: 128 bits",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"________ is the dominant firewall filtering method used on main border firewalls today.",
+        "respuesta":"The correct answer is: Stateful packet inspection",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Which of the following can spread very rapidly?",
+        "respuesta":"The correct answer is: directly-propagating viruses",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"________ is a program that can capture passwords as you enter them.",
+        "respuesta":"The correct answer is: A keystroke logger",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"When a packet that is part of an ongoing connection arrives at a stateful inspection firewall, the firewall usually ________.",
+        "respuesta":"The correct answer is: passes the packet",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"A specific encryption method is called a ________.",
+        "respuesta":"The correct answer is: cipher",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"You accidentally discover that you can get into other e-mail accounts after you have logged in under your account and only spend a few minutes looking at another user's mail. Is that hacking?",
+        "respuesta":"The correct answer is: yes",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Secured packets typically receive ________.",
+        "respuesta":"The correct answer is: All of these",
+        "intento":3
+    },
+    {
+        "capitulo":4,
+        "pregunta":"Trojan horses can spread by ________.",
+        "respuesta":"The correct answer is: neither e-mailing themselves to victim computers nor directly propagating to victim computers",
+        "intento":3
     }
 ]
